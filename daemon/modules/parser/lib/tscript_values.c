@@ -29,7 +29,9 @@
 **
 *****************************************************************************/
 
+#define _GNU_SOURCE
 #include "tscript_values.h"
+#include <stdio.h>
 #include <string.h>
 #include <stdarg.h>
 
